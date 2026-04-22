@@ -5,7 +5,7 @@
     **Artikel 212.HD - Crimineel als Advocaat** is toegevoegd lees deze dus eventjes goed door!
     
 ### Artikel 101.OW -  Wapenlijst 
-* Zoals vele weten werken we binnen Amersveen Roleplay met een wapenlijst. Ieder wapen dat in jouw bezit is, dient op jouw persoonlijke wapenlijst te staan. Heb jij dus een wapen geript/gekocht dien jij een ticket aan te maken. Voor dat deze ticket is goedgekeurd mag je dit wapen dus niet gebruiken. Doe je dit wel zal het wapen ingenomen worden en zal je daarvoor een straf krijgen. Deze krijg je dus ook niet terug.
+* Zoals vele weten werken we binnen Zoetermeer Roleplay met een wapenlijst. Ieder wapen dat in jouw bezit is, dient op jouw persoonlijke wapenlijst te staan. Heb jij dus een wapen geript/gekocht dien jij een ticket aan te maken. Voor dat deze ticket is goedgekeurd mag je dit wapen dus niet gebruiken. Doe je dit wel zal het wapen ingenomen worden en zal je daarvoor een straf krijgen. Deze krijg je dus ook niet terug.
 * Wapenlijst naam dient gelijk te zijn aan je steamnaam. Dit is verplicht!
 
 ### Artikel 102.OW -  Rippen
@@ -188,7 +188,7 @@ Het stelen uit een gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
 #### **Lid 1: Voorwaarden voor fouillering**  
 Een fouillering is alleen toegestaan bij een **geldige en redelijke reden**, zoals:  
 - Verdacht gedrag (bijv. rondhangen bij criminele locaties).  
-- Een **betrouwbare melding** van wapen- of drugbezit *(zie [Artikel 102.OW - Rippen](https://amersveenrp.github.io/apv/onderwereldregels/#artikel-102ow-rippen))* voor geldige redenen.  
+- Een **betrouwbare melding** van wapen- of drugbezit *(zie [Artikel 102.OW - Rippen](https://Zoetermeerrp.github.io/apv/onderwereldregels/#artikel-102ow-rippen))* voor geldige redenen.  
 - Eerdere overtredingen door de betrokkene (bijv. vluchtpoging of bedreiging).  
 
 #### **Lid 2: Confiscatie**  
@@ -205,7 +205,7 @@ Het afnemen van items (wapens, drugs, etc.) mag **alleen**:
 - Ongefundeerde fouilleringen kunnen worden bestraft (IC of OOC).  
 
 ---  
-**Handhaving:** Overtredingen van dit artikel vallen onder de [Algemene APV-regels](https://amersveenrp.github.io/apv/apv/).
+**Handhaving:** Overtredingen van dit artikel vallen onder de [Algemene APV-regels](https://Zoetermeerrp.github.io/apv/apv/).
 
 ### Artikel 120.OW - Counteren
 1. Het is alleen toegestaan om een overval te counteren als de wapens fysiek gezien zijn.
@@ -411,6 +411,6 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 	- alle niet onderwereld gerelateerde items ingame
 
 ---------------------
-*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “amersveen”, opgemaakt door Blaze.
+*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”, opgemaakt door Blaze.
 
 
