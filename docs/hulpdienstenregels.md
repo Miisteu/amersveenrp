@@ -223,7 +223,7 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 4. Het is niet toegestaan om als hostage zijnde een neventaak oproep te doen.
 
 ---------------------
-*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”, opgemaakt door Blaze.
+*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”, opgemaakt door slome.nl.
 
 
 
