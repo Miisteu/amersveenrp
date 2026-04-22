@@ -1,19 +1,19 @@
-# Amersveen Wetboek
+# Zoetermeer Wetboek
 
 ## Wetstechnische informatie
 
-| Officiële naam	    | Algemeen Wetboek Amersveen | 
+| Officiële naam	    | Algemeen Wetboek Zoetermeer | 
 |---|---|
-| Overheidsorganisatie      | Hulpdiensten Amersveen |
+| Overheidsorganisatie      | Hulpdiensten Zoetermeer |
 | Vastgesteld door          | Hoofd Hulpdiensten Coördinator |
-| Onderwerp                 | Wetboek AmersveenRP |
+| Onderwerp                 | Wetboek ZoetermeerRP |
 
 ## Algemene Bepalingen
 
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Amersveen (WAMR) is leidend voor alle beschreven gevallen waarbij als aanvulling het Nederlands Recht van toepassing is.
+1. Het Wetboek Zoetermeer (WAMR) is leidend voor alle beschreven gevallen waarbij als aanvulling het Nederlands Recht van toepassing is.
 2. het WAMR heeft betrekking op het vasteland, het luchtruim en de wateren.
 
 ### A2 - Geldigheid
@@ -706,4 +706,4 @@
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
 ---------------------
-*Wetboek Amersveen is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersveen”*
+*Wetboek Zoetermeer is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Zoetermeer”*
