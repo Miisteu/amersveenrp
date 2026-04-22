@@ -165,4 +165,4 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
     De prijzen kunnen ten alle tijden worden worden gewijzigd
 
 !!! attention "LET OP"
-    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://amersfoortrp.github.io/apv/wetboek/)
+    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://Zoetermeerrp.github.io/apv/wetboek/)
